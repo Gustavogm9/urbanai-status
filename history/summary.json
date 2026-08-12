@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/myurbanai.com.ico",
     "slug": "site-institucional",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 224,
-    "timeDay": 195,
-    "timeWeek": 225,
-    "timeMonth": 224,
-    "timeYear": 224,
+    "uptime": "99.44%",
+    "uptimeDay": "87.35%",
+    "uptimeWeek": "98.19%",
+    "uptimeMonth": "99.44%",
+    "uptimeYear": "99.44%",
+    "time": 220,
+    "timeDay": 136,
+    "timeWeek": 209,
+    "timeMonth": 220,
+    "timeYear": 220,
     "dailyMinutesDown": {
-      "2026-08-11": 1
+      "2026-08-12": 153,
+      "2026-08-11": 29
     }
   },
   {
@@ -25,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.myurbanai.com.ico",
     "slug": "aplicacao-web",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 220,
-    "timeDay": 229,
-    "timeWeek": 218,
-    "timeMonth": 220,
-    "timeYear": 220,
+    "uptime": "99.44%",
+    "uptimeDay": "87.37%",
+    "uptimeWeek": "98.20%",
+    "uptimeMonth": "99.44%",
+    "uptimeYear": "99.44%",
+    "time": 217,
+    "timeDay": 162,
+    "timeWeek": 211,
+    "timeMonth": 217,
+    "timeYear": 217,
     "dailyMinutesDown": {
-      "2026-08-11": 0
+      "2026-08-12": 153,
+      "2026-08-11": 29
     }
   },
   {
@@ -45,16 +47,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/urbanai-production-85fd.up.railway.app.ico",
     "slug": "api",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 140,
-    "timeDay": 195,
-    "timeWeek": 134,
-    "timeMonth": 140,
-    "timeYear": 140,
-    "dailyMinutesDown": {}
+    "uptime": "99.44%",
+    "uptimeDay": "87.38%",
+    "uptimeWeek": "98.20%",
+    "uptimeMonth": "99.44%",
+    "uptimeYear": "99.44%",
+    "time": 141,
+    "timeDay": 139,
+    "timeWeek": 139,
+    "timeMonth": 141,
+    "timeYear": 141,
+    "dailyMinutesDown": {
+      "2026-08-12": 153,
+      "2026-08-11": 29
+    }
   }
 ]
